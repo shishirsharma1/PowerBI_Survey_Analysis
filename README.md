@@ -1,6 +1,5 @@
 # Data Analysis Survey - Dashboard
 
-### Dashboard Link : https://app.powerbi.com/groups/me/reports/384d017e-e935-44dc-9e7d-1626c1a36de1/ReportSection
 
 ## Problem Statement
 
@@ -16,5 +15,7 @@ This dashboard helps us understand the survey data better. It helps us understan
 - Step 5 : Visual filters (Slicers) were added for seperating the data with respect to countries.
 - Step 6 : Two card visuals were added to the canvas, one representing average age of survey takers & other representing total number of survey takers.          
 - Step 7 : A bar chart was also added to the report design area representing the average salary by Job Title.
+
+![image](https://github.com/user-attachments/assets/985324a5-7792-4c74-bde9-84973e4fb35a)
 
  
